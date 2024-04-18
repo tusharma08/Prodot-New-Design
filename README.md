@@ -1,6 +1,6 @@
 # Prodot - New Design
 
-![Prodot New Design](https://path-to-your-image.com/prodot-new-design.png)
+![Prodot New Design](../img/img1.png)
 
 ## Introduction
 
@@ -26,7 +26,9 @@ The website is divided into several key sections:
 
 - **Home**: The landing page, showcasing the company's mission and services.
 - **About**: Provides information about the company, its history, and its team.
-- **Career**: Details about job opportunities and the company culture.
+- **Career**: Details about job opportunities and the company culture![Screenshot 2024-04-11 150938](https://github.com/tusharma08/Prodot-New-Design/assets/96423502/94545413-06fc-4563-8b7d-b318715b1b61)
+![Screenshot 2024-04-11 150938](https://github.com/tusharma08/Prodot-New-Design/assets/96423502/cf6180bc-860b-48d8-b8a6-d68a2893974c)
+.
 - **Contact**: Information on how to get in touch with the company.
 - **Projects**: Showcases the company's portfolio and past projects.
 
