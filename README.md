@@ -1,6 +1,7 @@
 # Prodot - New Design
 
-![Prodot New Design](https://path-to-your-image.com/prodot-new-design.png)
+![Screenshot 2024-04-11 150938](https://github.com/tusharma08/Prodot-New-Design/assets/96423502/89cc9e36-4a4a-47d8-a1a4-595a6cec13be)
+![Screenshot 2024-04-11 150913](https://github.com/tusharma08/Prodot-New-Design/assets/96423502/3867c2e0-87b3-4c5f-a302-1cc21110eff8)
 
 ## Introduction
 
